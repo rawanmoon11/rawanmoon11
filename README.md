@@ -4,7 +4,7 @@ Final-year Software Engineering student at SUS.
 I enjoy writing code and building web applications.
 
 ## 🚀 Projects
-- **Alzikrayat** – [one-line description of what it does] (Completed)
+- **Alzikrayat** –(https://github.com/rawanmoon11/Alzikrayat) -[one-line description of what it does] (Completed)
 
 ## 🌱 Currently learning
 - React
